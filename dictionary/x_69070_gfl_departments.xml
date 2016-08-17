@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Departments" max_length="40" name="x_69070_gfl_departments" type="collection">
+        <element label="Creation date" mandatory="true" max_length="40" name="creation_date" type="glide_date_time"/>
+        <element label="Current assigned people count" mandatory="true" max_length="40" name="current_assigned_people_count" type="integer"/>
+        <element label="Due date" mandatory="true" max_length="40" name="due_date" type="glide_date_time"/>
+        <element choice="1" dependent="manager" dependent_on_field="manager" label="Manager" mandatory="true" max_length="32" name="manager" reference="x_69070_gfl_employees" reference_qual="ismanager=true^EQ" reference_qual_condition="ismanager=true^EQ" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element label="Max quantity of people" mandatory="true" max_length="40" name="max_quantity_of_people" type="integer"/>
+        <element display="true" label="Title" mandatory="true" max_length="100" name="title" type="string_full_utf8"/>
+        <index name="index">
+            <element name="manager"/>
+        </index>
+    </element>
+</database>

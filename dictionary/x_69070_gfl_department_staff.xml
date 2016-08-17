@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Department staff" max_length="40" name="x_69070_gfl_department_staff" type="collection">
+        <element choice="1" label="Department" mandatory="true" max_length="32" name="department" reference="x_69070_gfl_departments" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Employee" mandatory="true" max_length="32" name="employee" reference="x_69070_gfl_employees" type="reference">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="employee"/>
+            <element name="department"/>
+        </index>
+        <index name="index2">
+            <element name="department"/>
+        </index>
+        <index name="index3">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>

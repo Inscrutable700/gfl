@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Office goods requests" max_length="40" name="x_69070_gfl_office_goods_requests" type="collection">
+        <element label="Cost" mandatory="true" max_length="40" name="cost" type="currency"/>
+        <element choice="1" label="Department" mandatory="true" max_length="32" name="department" reference="x_69070_gfl_departments" type="reference">
+            <choice/>
+        </element>
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+        <element choice="1" default="1" label="Status" max_length="100" name="status" type="choice">
+            <choice>
+                <element label="Approved" value="2"/>
+                <element label="Rejected" value="3"/>
+                <element label="Requested" value="1"/>
+            </choice>
+        </element>
+        <element display="true" label="Title" mandatory="true" max_length="255" name="title" type="string_full_utf8"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+    </element>
+</database>

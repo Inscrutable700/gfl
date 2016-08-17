@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Employees" max_length="40" name="x_69070_gfl_employees" type="collection">
+        <element label="IsManager" max_length="40" name="ismanager" type="boolean"/>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string_full_utf8"/>
+    </element>
+</database>
