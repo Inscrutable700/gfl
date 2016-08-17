@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="TestTable1" max_length="40" name="x_69070_gfl_testtable1" type="collection">
+        <element attributes="import_attribute_name=cost|depart|item,edge_encryption_enabled=true" label="cost|depart|item" max_length="40" name="u_cost_depart_item" type="string"/>
+    </element>
+</database>
