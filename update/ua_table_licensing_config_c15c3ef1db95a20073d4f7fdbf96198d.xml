@@ -2,23 +2,23 @@
 <record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>false</is_fulfillment>
-        <name>x_69070_gfl_employees</name>
-        <owner_condition table="x_69070_gfl_employees">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
+        <name>x_69070_gfl_departments</name>
+        <owner_condition table="x_69070_gfl_departments">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </owner_condition>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-16 11:20:26</sys_created_on>
+        <sys_created_on>2016-08-16 11:48:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c459ba75db1122005e64f11fbf9619e7</sys_id>
+        <sys_id>c15c3ef1db95a20073d4f7fdbf96198d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_69070_gfl_employees</sys_name>
+        <sys_name>x_69070_gfl_departments</sys_name>
         <sys_package display_value="GFL" source="x_69070_gfl">61398019db19620073d4f7fdbf96192e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GFL">61398019db19620073d4f7fdbf96192e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_c459ba75db1122005e64f11fbf9619e7</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_c15c3ef1db95a20073d4f7fdbf96198d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-08-16 11:20:26</sys_updated_on>
+        <sys_updated_on>2016-08-16 11:48:27</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

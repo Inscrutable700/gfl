@@ -2,7 +2,7 @@
 <record_update table="sys_index">
     <sys_index action="INSERT_OR_UPDATE">
         <col_name_string>employee,department</col_name_string>
-        <index_col_name>bb49ba75db1122005e64f11fbf9619d5,fb49ba75db1122005e64f11fbf9619d4</index_col_name>
+        <index_col_name>ac5c3ef1db95a20073d4f7fdbf961952,ec5c3ef1db95a20073d4f7fdbf961951</index_col_name>
         <logical_table_name>x_69070_gfl_department_staff</logical_table_name>
         <sys_class_name>sys_index</sys_class_name>
         <sys_created_by>admin</sys_created_by>

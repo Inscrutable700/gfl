@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>title</element>
-            <list_id display_value="x_69070_gfl_departments" element="NULL" name="x_69070_gfl_departments" parent="NULL" relationship="NULL" sys_domain="global" view="4de22600db1122005e64f11fbf96197e">463b345ddb1d620073d4f7fdbf961996</list_id>
+            <list_id display_value="x_69070_gfl_departments" element="NULL" name="x_69070_gfl_departments" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">463b345ddb1d620073d4f7fdbf961996</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -43,7 +43,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-08-16 14:41:10</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">4de22600db1122005e64f11fbf96197e</view>
+            <view display_value="Reference List" name="sys_ref_list">6f303532db01220073d4f7fdbf96197e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
