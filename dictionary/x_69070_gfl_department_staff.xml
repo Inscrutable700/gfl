@@ -16,6 +16,7 @@
         </index>
         <index name="index3">
             <element name="employee"/>
+            <element name="department"/>
         </index>
     </element>
 </database>

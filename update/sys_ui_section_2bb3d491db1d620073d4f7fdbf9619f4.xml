@@ -5,97 +5,111 @@
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>2d0410d1db1d620073d4f7fdbf96193b</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>67e3dc91db1d620073d4f7fdbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>creation_date</element>
+            <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>ad0410d1db1d620073d4f7fdbf96193b</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>e7e3dc91db1d620073d4f7fdbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>creation_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>6be3dc91db1d620073d4f7fdbf9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>due_date</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>210410d1db1d620073d4f7fdbf96193c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>a10410d1db1d620073d4f7fdbf96193c</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>ebe3dc91db1d620073d4f7fdbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
-            <type>.split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>manager</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>250410d1db1d620073d4f7fdbf96193c</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>6fe3dc91db1d620073d4f7fdbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>current_assigned_people_count</element>
+            <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>a50410d1db1d620073d4f7fdbf96193c</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>efe3dc91db1d620073d4f7fdbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_assigned_people_count</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>63e3dc91db1d620073d4f7fdbf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>max_quantity_of_people</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:49:56</sys_created_on>
-            <sys_id>290410d1db1d620073d4f7fdbf96193c</sys_id>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_id>e3e3dc91db1d620073d4f7fdbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_69070_gfl_departments" sys_domain="global" view="Default view">2bb3d491db1d620073d4f7fdbf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:49:56</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -106,8 +120,8 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-08-16 11:48:42</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_created_on>2016-08-16 11:49:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2bb3d491db1d620073d4f7fdbf9619f4</sys_id>
@@ -120,9 +134,9 @@
             <sys_scope display_value="GFL">61398019db19620073d4f7fdbf96192e</sys_scope>
             <sys_update_name>sys_ui_section_2bb3d491db1d620073d4f7fdbf9619f4</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-16 11:48:42</sys_updated_on>
+            <sys_updated_on>2016-08-16 11:49:31</sys_updated_on>
             <sys_user/>
-            <title>true</title>
+            <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>

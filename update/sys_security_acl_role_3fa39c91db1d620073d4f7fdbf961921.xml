@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-16 11:48:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3fa39c91db1d620073d4f7fdbf961921</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_69070_gfl_departments.x_69070_gfl_departments_user</sys_name>

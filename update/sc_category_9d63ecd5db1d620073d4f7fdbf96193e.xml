@@ -22,7 +22,7 @@
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-16 12:57:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9d63ecd5db1d620073d4f7fdbf96193e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Custom service catalogs</sys_name>

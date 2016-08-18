@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-16 14:35:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e50a345ddb1d620073d4f7fdbf96198f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Office goods request</sys_name>

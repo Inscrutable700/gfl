@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-16 12:13:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0609dc15db1d620073d4f7fdbf96192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Department staff</sys_name>
