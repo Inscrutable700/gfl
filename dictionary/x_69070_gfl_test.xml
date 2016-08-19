@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test" max_length="40" name="x_69070_gfl_test" type="collection">
+        <element label="DateTimeField" max_length="40" name="datetimefield" type="glide_date_time"/>
+        <element label="DueDateField" max_length="40" name="duedatefield" type="due_date"/>
+    </element>
+</database>
