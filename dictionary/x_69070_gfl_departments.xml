@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Departments" max_length="40" name="x_69070_gfl_departments" type="collection">
+    <element attributes="live_feed=true" label="Departments" max_length="40" name="x_69070_gfl_departments" type="collection">
         <element label="Creation date" mandatory="true" max_length="40" name="creation_date" type="glide_date_time"/>
         <element label="Current assigned people count" mandatory="true" max_length="40" name="current_assigned_people_count" type="integer"/>
         <element label="Due date" mandatory="true" max_length="40" name="due_date" type="glide_date_time"/>

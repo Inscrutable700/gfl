@@ -108,7 +108,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1a8594d1db1d620073d4f7fdbf961912</sys_id>
-            <sys_mod_count>5</sys_mod_count>
+            <sys_mod_count>12</sys_mod_count>
             <sys_name>x_69070_gfl_departments</sys_name>
             <sys_package display_value="GFL" source="x_69070_gfl">61398019db19620073d4f7fdbf96192e</sys_package>
             <sys_policy/>
@@ -116,7 +116,7 @@
             <sys_scope display_value="GFL">61398019db19620073d4f7fdbf96192e</sys_scope>
             <sys_update_name>sys_ui_list_x_69070_gfl_departments_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-08-19 10:54:08</sys_updated_on>
+            <sys_updated_on>2016-08-19 13:23:20</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
